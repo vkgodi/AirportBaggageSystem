@@ -1,0 +1,365 @@
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :Concourse_A_Ticketing
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A3]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A6]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A1
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{11=[Concourse_A_Ticketing, A5, A1]}
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :A5
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A3]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A6]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A4
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{9=[A5, A1, A2, A3, A4]}
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :A2
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A3]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A5]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5, A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A1
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{1=[A2, A1]}
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :A8
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, A7]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A5
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{6=[A8, A9, A10, A5]}
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :A7
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A6]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A9]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A10]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, Concourse_A_Ticketing]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :BaggageClaim
+2018-04-15 19:54:31 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{12=[A7, A8, A9, A10, A5, BaggageClaim]}
+2018-04-15 19:55:12 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :A2
+2018-04-15 19:55:12 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 19:55:12 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 19:55:12 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 19:55:12 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 19:55:47 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggege route :A2
+2018-04-15 19:55:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 19:55:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 19:55:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 19:55:47 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully excuted and found the shortest distence between the nodes.
+2018-04-15 20:50:56 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:50:56 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 20:50:56 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 20:50:56 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 20:50:56 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 20:51:03 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:51:03 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 20:51:03 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 20:51:03 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 20:51:03 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 20:51:22 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:51:22 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 20:51:22 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 20:51:22 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 20:51:22 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 20:52:34 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:52:43 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 20:53:56 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 20:54:32 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 20:55:38 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 20:56:00 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:56:00 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 20:56:00 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 20:56:00 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 20:56:00 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 20:58:03 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:58:09 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 20:59:11 INFO  DenverBaggegeRoute:123 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 20:59:20 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 20:59:21 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 20:59:44 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 20:59:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:00:06 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 21:00:11 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:06:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:06:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:06:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 21:06:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:06:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:12:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:12:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:12:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:13:24 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:13:39 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:13:55 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:14:24 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:14:24 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A3]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A5]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5, A4]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, Concourse_A_Ticketing]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:23:16 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:27:15 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:27:46 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:27:53 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:27:53 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:28:21 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:28:31 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:28:45 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:29:23 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:30:30 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:30:47 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :Concourse_A_Ticketing
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A3]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A6]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A1
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{11=[Concourse_A_Ticketing, A5, A1]}
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A3]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A6]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A4
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{9=[A5, A1, A2, A3, A4]}
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A3]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A5]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5, A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A1
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{1=[A2, A1]}
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A8
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, A7]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A5
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{6=[A8, A9, A10, A5]}
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A7
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A6]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A9]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A10]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, Concourse_A_Ticketing]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :BaggageClaim
+2018-04-15 21:32:52 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{12=[A7, A8, A9, A10, A5, BaggageClaim]}
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :Concourse_A_Ticketing
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A3]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A6]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A1
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{11=[Concourse_A_Ticketing, A5, A1]}
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A5
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A8]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A2]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2, A7]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A3]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A6]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A4
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{9=[A5, A1, A2, A3, A4]}
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A2
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, A3]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3, A5]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5, A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[BaggageClaim, Concourse_A_Ticketing, A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A1
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{1=[A2, A1]}
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A8
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9, A7]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7, A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :A5
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{6=[A8, A9, A10, A5]}
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:40 - DenverBaggegeRoute::execute() started to excute the Automate Baggage route :A7
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A7]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A8, A6]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A6, A9]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A9]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A10]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A5]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, BaggageClaim, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1, Concourse_A_Ticketing]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A1]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A2]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A3]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:121 - DenverBaggegeRoute::getMinimum() started getMinimum method to find the minimum path :[A4]
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:55 - DenverBaggegeRoute::execute() successfully executed and found the shortest distance between the nodes.
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:156 - DenverBaggegeRoute::getPath () started to get the path from the source to the selected target :BaggageClaim
+2018-04-15 21:37:17 INFO  DenverBaggegeRoute:177 - This method returned the path from the source to the selected target :{12=[A7, A8, A9, A10, A5, BaggageClaim]}
